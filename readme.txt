@@ -35,11 +35,13 @@ data files have the same subsequences in their DNA strands so the results from
 your program will be the same on all of the files (exactly what is in
 output.txt)."
 
-INSTRUCTIONS TO RUN THE PROGRAM: 
+HOW TO START THIS PROJECT: Compile FindCommonSubsequences.java and ReadLines.java
+on any Java compiler. An example of a free Java compiler is a program called 
+BlueJ.
 
-Compile FindCommonSubsequences.java and ReadLines.java. Run the main function in
-the ReadLines class, passing it a string containing the path the text file 
-containing the strings that the program will be comparing. The provided text files
-are "large.txt", "medium.txt", "small.txt", "verylarge.txt", and "verysmall.txt".
-Each provided file, when provided to the program, will prompt the same output from
-the program.
+USER INSTRUCTIONS:
+Run the main function in the ReadLines class, passing it a string containing the 
+path the text file containing the strings that the program will be comparing. The 
+provided text files are "large.txt", "medium.txt", "small.txt", "verylarge.txt", 
+and "verysmall.txt". Each provided file, when provided to the program, will prompt 
+the same output from the program.
